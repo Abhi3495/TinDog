@@ -1,0 +1,191 @@
+
+#title
+{
+	background-color:#ff4c68;
+	font-family: 'Montserrat', sans-serif;
+	color:#fff;
+	border:1px solid;
+	border-color:#fff;
+}
+#features
+{
+	background-color:#fff;
+	border:1px solid;
+	border-color:#fff;
+	padding:7% 15%;
+	position:relative;
+	z-index:1;
+}
+.container-fluid
+{   
+    
+    padding-top:3%;
+	padding-left :5%;
+	padding-right:5%;
+	padding-bottom:12%;
+}
+
+h1
+{
+	font-weight:600;
+	font-size:2rem;
+	line-height:2.5rem;
+	
+}
+.navbar-brand
+{
+	color:#fff;
+}
+
+.nav-link
+{
+	color:#fff;
+}
+
+.features
+{
+	text-align:center;
+		
+}
+
+.featurep
+{
+	color:gray;
+	padding:5%;
+}
+
+.fas:hover
+{
+	color:#ff4c68;
+}
+
+h3
+{
+    font-weight:900;
+	font-size:1.6rem;
+	font-family: 'Montserrat', sans-serif;	
+}
+h2
+{
+    font-weight:900;
+	font-size:1.6rem;
+	font-family: 'Montserrat', sans-serif;
+    	
+}
+em
+{
+	font-family: 'Montserrat', sans-serif;
+	color:#fff;	
+}
+
+#cocktail
+{
+	transform: rotate(45deg);
+	position:absolute;
+
+}
+
+#dlbutton
+{
+	margin-left:15%;
+	margin-top:15%;
+	padding:2%;
+}
+
+.icon
+{
+	color:#ef8172;
+	margin-bottom:5%;
+	
+}
+
+#testimonials
+{
+	
+	text-align:center;
+	background-color:#ef8172;
+}
+
+.testimonial-text
+{
+	color:#fff;
+}
+
+#press
+{
+	padding: 1%;
+	text-align:center;
+	background-color:#ef8172;
+}
+.press-logo
+{
+	width:20%;
+	margin:10px;
+}
+
+.testi-img
+{
+	border-radius:100%;
+	padding: 2%;
+	
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+  /*Pricing Section */
+  
+  #pricing{
+	 padding: 100px;
+	 text-align: center;
+  }
+  
+  .pricing-column{
+	  padding: 5% 3%;
+  }
+  
+  #cta
+{
+	background-color:#ff4c68;
+	font-family: 'Montserrat', sans-serif;
+	color:#fff;
+	border:1px solid;
+	border-color:#fff;
+	text-align: center;
+	
+	padding: 7% 20%;
+}
+
+.fbutton{
+	margin:3% 1%;
+}
+
+ #footer
+{
+	background-color:#fff;
+	font-family: 'Montserrat', sans-serif;
+	color:gray;
+	border:1px solid;
+	border-color:#fff;
+	text-align: center;
+	
+	padding: 5% 20%;
+}
+
+.social-media
+{
+	color:black;
+	padding: 1%;
+}
+
+  @media (max-width:1028px)
+  
+  {
+	  #cocktail
+{
+	position:static;
+	transform:rotate(0);
+}
+  }
+
